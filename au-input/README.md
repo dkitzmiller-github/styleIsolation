@@ -1,4 +1,7 @@
-# AuSvgButton
+#  Example of building a library 
+
+This project gives an example of content projection, style isolation, with :host, :host-context,  @contentChild, component directive, style override, @HostBinding for style generation, module generation, 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
